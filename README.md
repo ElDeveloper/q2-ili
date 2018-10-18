@@ -18,9 +18,9 @@ qiime dev refresh-cache
 # Requirements
 
 In order to use this plugin, you need a 3D model in STL format and a mapping
-between your samples and their coordinate locations in the model. In order to
-do this your QIIME 2 metadata file needs to include three columns labeled `x`,
-`y` and `z`. For more information see [\`ili's
+between your samples and their coordinate locations in the model. To do this
+your QIIME 2 metadata file needs to include three columns labeled `x`, `y` and
+`z`. For more information see [\`ili's
 documentation](https://github.com/MolecularCartography/ili).
 
 # Example
